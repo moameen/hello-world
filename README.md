@@ -1,6 +1,3 @@
 hello-world
-
-My name is Mohamed
 ===========
-
-Tutorial
+ My name is Mohamed
